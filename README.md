@@ -1,6 +1,6 @@
 # DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding (ECCV 2024)
 
-[Jincen Jiang](https://www.jincenjiang.com), [Qianyu Zhou](https://qianyuzqy.github.io/), [Yuhang Li](https://yuhang-li.com/), [Xuequan Lu](http://xuequanlu.com/), [Meili Wang](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm), [Lizhuang Ma](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=86), [Jian Chang](https://staffprofiles.bournemouth.ac.uk/display/jchang), and [Jian Jun Zhang](https://jzhang.bournemouth.ac.uk/).
+[Jincen Jiang*](https://www.jincenjiang.com), [Qianyu Zhou*](https://qianyuzqy.github.io/), [Yuhang Li](https://yuhang-li.com/), [Xuequan Lu+](http://xuequanlu.com/), [Meili Wang+](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm), [Lizhuang Ma](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=86), [Jian Chang](https://staffprofiles.bournemouth.ac.uk/display/jchang), and [Jian Jun Zhang](https://jzhang.bournemouth.ac.uk/).
 
 
 This is the source code for the implementation of our **[paper](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_26)**.
