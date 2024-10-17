@@ -10,7 +10,7 @@ Our benchmark is available at **[New Benchmark](https://livebournemouthac-my.sha
 
 ## Overview
 
-<img src="./img/overview.pdf" style="zoom:30%;" />
+<img src="./img/overview.png" style="zoom:30%;" />
 
 The overview of our proposed **DG-PIC**. (a) Pretraining: we select an arbitrary sample from different source domains and form a query-prompt pair with the current one. The point cloud pairs will tackle the same task. Then, we mask some patches in the target point clouds randomly through the MPM framework and reconstruct them via the Transformer model. (b) Testing: we freeze the pretrained model, and generalize it towards unseen target sample through two key components: estimating source domain prototypes using *global-level* and *local-level* features, aligning target features with source domains by considering *macro-level* semantic information and *micro-level* positional relationships. We select the most similar sample from the nearest source as the prompt.
 
@@ -60,7 +60,7 @@ To train DG-PIC on the new **multi-domain and multi-task setting**, run the foll
 python main.py --config cfgs/DGPIC_<target_domain>.yaml --exp_name exp/DGPIC_<target_domain>
 ```
 
-Replace the `<target_domain>` by `[modelnet, shapenet, scannet, scanobjectnn]`. The remaining 3 datasets will be considerd as the source domains.
+Replace the `<target_domain>` by `[modelnet, shapenet, scannet, scanobjectnn]`. The remaining 3 datasets will be considered as the source domains.
 
 ### 3. Testing
 
@@ -72,7 +72,7 @@ python test_dg.py --config cfgs/DGPIC_<target_domain>.yaml --exp_name DGPIC_<tar
 
 ## Visual Results
 
-<img src="./img/results.pdf" style="zoom:30%;" />
+<img src="./img/results.png" style="zoom:30%;" />
 
 
 ## Citation
