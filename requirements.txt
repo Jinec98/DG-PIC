@@ -1,0 +1,11 @@
+argparse
+easydict
+h5py
+matplotlib
+numpy
+opencv-python
+pyyaml
+scipy
+tensorboardX
+timm==0.4.5
+tqdm
