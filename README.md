@@ -3,7 +3,7 @@
 [Jincen Jiang*](https://www.jincenjiang.com), [Qianyu Zhou*](https://qianyuzqy.github.io/), [Yuhang Li](https://yuhang-li.com/), [Xuequan Lu+](http://xuequanlu.com/), [Meili Wang+](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm), [Lizhuang Ma](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=86), [Jian Chang](https://staffprofiles.bournemouth.ac.uk/display/jchang), and [Jian Jun Zhang](https://jzhang.bournemouth.ac.uk/).
 
 
-This is the source code for the implementation of our **[paper](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_26)**.
+This is the source code of our **[paper](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_26)**.
 
 Our benchmark is available at **[New Benchmark](https://livebournemouthac-my.sharepoint.com/:f:/g/personal/jiangj_bournemouth_ac_uk/EkFcXVw8GN1Bv2E7GehrE0sBnoibyuMfZ8Ck1Xx5FLPs_Q)**.
 
